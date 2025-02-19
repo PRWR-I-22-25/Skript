@@ -29,7 +29,7 @@ OSINT Blogpost und publizieren Sie diesen mit Hilfe von GitHub Pages.
   * [pandas](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/00.00-Preface.ipynb)
   * [plotly](https://plotly.com/python/plotly-fundamentals/) 
   sind hier verlinkt.
-* Jedes Team arbeitet in einem Repository.
+* Jedes Team arbeitet in einem Repository.  
 * Die Arbeit am Projektentwurf erfolgt grundsätzlich in einem Branch
   `projektentwurf`. 
 * Die Arbeit an der genehmigten Fragestellung erfolgt grundsätzlich in einem Branch `dev`.
