@@ -14,6 +14,7 @@
 !requirements.txt
 !*.tex
 !*.qmd
+!*.yml
 
 # ...even if they are in subdirectories
 !*/

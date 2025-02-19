@@ -1,0 +1,10 @@
+theme: jekyll-theme-slate
+
+title: PRWR - Klasse 3I
+description: ' ' 
+
+includes_dir: ./_includes
+layouts_dir:  ./_layouts
+plugins:
+  - jemoji
+  - jekyll-mermaid
