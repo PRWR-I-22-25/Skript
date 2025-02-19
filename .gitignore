@@ -1,0 +1,29 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.csv
+!*.md
+!*.py
+!*.ipynb
+!*.svg
+!*.yaml
+!*.bib
+!*.csl
+!requirements.txt
+!*.tex
+!*.qmd
+
+# ...even if they are in subdirectories
+!*/
+
+# Ignore venv folder
+venv/
+
+# Re-ignore .py files in the venv folder
+venv/**/*.py
+/.luarc.json
+
+**/.ipynb_checkpoints/
+
