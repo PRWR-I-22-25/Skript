@@ -2,10 +2,7 @@
 
 ## Orientierung
 
-Aufbauend auf dem letzten Auftrag zur Datenvisualisierung, geht es im folgenden
-Projekt darum, Ihre Kenntnisse im Bereich Datenaufbereitung und
-Datenvisualisierung zu vertiefen. In diesem Projekt werden Sie daher Daten aus
-mehreren Quellen zusammenzuführen und in geeigneter Form darstellen.
+In diesem Projekt geht es um eine Anwendungsübung in 'Data Driven Journalism'.
 
 ## Absicht
 
@@ -19,24 +16,23 @@ Ich will, dass Sie
 
 ## Auftrag
 
-Erstellen Sie im Rahmen des genehmigten Projekts eine interaktive
-Datenvisualisierung und halten Sie sich bereit, die Resultate Ihrer Arbeit zu
-Präsentieren.
+Erstellen Sie im Rahmen der genehmigten Fragestellung einen Text im Stil eines
+OSINT Blogpost und publizieren Sie diesen mit Hilfe von GitHub Pages.
 
 ## Besondere Anordnungen
 
 * Termine:
-  * 9\. Januar 25: Konstituierung der Teams
-  * 16\. Januar 25: Projektskizze
-  * 13\. März 25: Projektabgabe
-* Als Resultat ist **ein** ausgeführtes Jupyter Notebook abzugeben.
+  * 20\. Februar 25: Konstituierung der Teams
+  * 27\. Februar 25: Projektskizze
+  * 27\. März 25: Projektabgabe
 * Hilfestellungen für
   * [pandas](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/00.00-Preface.ipynb)
   * [plotly](https://plotly.com/python/plotly-fundamentals/) 
   sind hier verlinkt.
+* Jedes Team arbeitet in einem Repository.
 * Die Arbeit am Projektentwurf erfolgt grundsätzlich in einem Branch
   `projektentwurf`. 
-* Die Arbeit am genehmigten Projekt erfolgt grundsätzlich in einem Branch `dev`.
+* Die Arbeit an der genehmigten Fragestellung erfolgt grundsätzlich in einem Branch `dev`.
 * Für das Projekt ist ein Zeitplan zu erstellen. Dieser soll nicht nur Deadlines
   beinhalten, sondern auch Auskunft über den abgeschätzten und effektiven
   Zeitbedarf für die einzelnen Teilschritte geben.
@@ -45,7 +41,7 @@ Präsentieren.
 * Bewertet werden die Kriterien
   * Prozess,
   * Sprache,
-  * Code,
+  * Code für die Datenauswertung und Darstellung,
   * Grafik sowie
   * Daten
 
