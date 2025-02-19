@@ -9,7 +9,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 | Datum | Thema |
 | ----- | ----- |
-| 20.02.2025 | Interaktive Datenvisualisierung in Jupyter Notebooks |
+| 20.02.2025 | Interaktive Datenvisualisierung in Jupyter Notebooks  ([Projektauftrag](250220/auftrag.md))|
 | 27.02.2025 | Interaktive Datenvisualisierung in Jupyter Notebooks |
 | 06.03.2025 | Vorstellung Studiengänge FHGR |
 | 13.03.2025 | Interaktive Datenvisualisierung in Jupyter Notebooks |
